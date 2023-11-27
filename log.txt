@@ -1,0 +1,4 @@
+2023-03-30 11:59:19,601 INFO     [logged.py:5] This is info message!
+2023-03-30 11:59:19,603 WARNING  [logged.py:6] This is warning message!!
+30-03-2023 12:03:15 INFO     [logged.py:5] This is info message!
+30-03-2023 12:03:15 WARNING  [logged.py:6] This is warning message!!

@@ -1,0 +1,226 @@
+Vasu Radadia 24-03-2023
+
+ 
+Section-8 Type hinting
+-Typing in python ->Done
+-Further reading ->Done
+
+ 
+Section-9 Advance Built-in Functions in python
+-Generators in python ->Done
+-Coding exercise 17 ->Done
+-Python Generator classes and iterators ->Done
+-Coding exercise 18 ->Done
+
+
+Vasu Radadia 27-03-2023
+
+ 
+Section-9 Advance Built-in Functions in python
+-Iterables in python ->Done
+-The filter() function ->Done
+-The map function ->Done
+-Any() and all() ->Done
+-Section 9 Review ->Done
+
+
+Section-10 Advance Python Devlopment
+-Mutability ->Done
+-Argument mutability ->Done
+-Default values for parameters ->Done
+-Mutable values arguments ->Done
+
+
+Vasu Radadia 29-03-2023
+
+Section-10 Advance Python Devlopment
+-Queues ->Done
+-Python collections ->Done
+-Coding exercise 19 ->Done
+-Timezones ->Done
+-Dates and times in python ->Done
+-Timing your code ->Done
+-Regular expressions ->Done
+-Regex examples ->Done
+-Regex in python ->Done
+-Coding exercise 20 ->Done
+
+
+Vasu Radadia 30-03-2023
+
+Section-10 Advance Python Devlopment
+-Introduction to logging in python ->Done
+-Logging to a file and another features ->Done
+-Higher-order functions ->Done
+-The built-in itertools module ->Done
+
+Section-11 Web Scraping with Python
+-Markup Languages: The Structure of HTML code ->Done
+-Understanding HTML with BeautifulSoup ->Done
+-More complex HTML parsing ->Done
+
+Vasu Radadia 31-03-2023
+
+Section-11 Web Scraping with Python
+-Structuring our parsing program better ->Done
+-Splliting HTML locators out of our Python class ->Done
+-Understanding HTML with browser ->Done
+-Scraping our first website with Python ->Done
+-Milstone Project 3: A Quoto Scraper ->Done
+-Quotes Project 2: Structuring a scraping app with Python ->Done
+-Quotes Project 3: Scraping our locators ->Done
+-Quotes Project 4: Crafting our quote parser ->Done
+-Quotes Project 5: The quotes page ->Done
+-Quotes Project 6: Recape of the project ->Done
+
+
+Vasu Radadia 03-04-2023
+
+Section-11 Web Scraping with Python -> Done
+Milestone Project 4: A Book Scraper + application
+-Books Project 2: Recap of HTML locators
+-Books Project 3: Creating locators in Python
+-Books Project 4: Creating our page
+-Books Project 5: Creating our book parser
+-Books Project 6: Writing our app file
+-Books Project 7: Sorting the books
+-Books Project 8: Constructing our menu
+-Books Project 9: Getting Multiple pages
+-Books Project 10: Multiple Pages in Python
+-Books Project 11: Getting the page count in Python
+-Books Project 12: Adding logging to our Python Project 
+
+
+Vasu Radadia 04-04-2023
+
+Section-12 Browser Automation with Selenium ->Done
+-New page Locators
+-Intrecting with dropdowns
+-Selecting tags
+-Searching for quotes
+-Encapsulating logic more simply
+-Adding some error handling
+-Implicit and Explicit waits in Selenium
+-Addind waits to our program code
+
+Vasu Radadia 05-04-2023
+
+Section 13: Asynchronous Python Development
+-The Dining Philosophers Problem ->Done
+-Processes and threads ->Done
+-The Python GIL ->Done
+-Example: threads in Python ->Done
+-Using Python concurrent.futures: the ThreadPoolExecutor ->Done
+-Don't kill threads ->Done
+-Multiprocessing in Python ->Done
+
+
+Vasu Radadia 06-04-2023
+
+Section 13: Asynchronous Python Development
+-Using Python concurrent.futures: the ProcessPoolExecutor ->Done
+-Dealing with shared state in threads ->Done
+-Queuing in threads with shared state ->Done
+-Using Python generators instead of threads ->Done
+-Our first single-threaded task scheduler in Python ->Done
+-Yielding from another iterator in Python ->Done
+-Receiving data through yield ->Done
+
+
+Vasu Radadia 10-04-2023
+
+Section 13: Asynchronous Python Development(Approx 8.5 hrs)
+-The async and await keywords ->Done
+-Watch these talks for more explanations and examples! ->Done
+-Our asynchronous scraper ->Done
+-Making our first async request in Python ->Done
+-Getting multiple pages efficiently ->Done
+
+
+Vasu Radadia 11-04-2023
+
+Section 13: Asynchronous Python Development
+-Using async_timeout for security ->Done
+-Turning our book scraping project async ->Done
+
+
+Section 14: Python on the console and managing project dependencies
+-Running Python in the console ->Done
+-Terminal video: running Python ->Done
+-Terminal video: Setting virtualenv for project ->Done
+
+
+Vasu Radadia 12-04-2023
+
+Section 14: Python on the console and managing project dependencies
+-Terminal video: navigating the terminal and using virtualenv ->Done
+-Terminal vidieo: using Pipenv and varifying content ->Done
+-Summary e-book of using Pipenv ->Done
+-Wrap up eveything related e-book project ->Done
+
+
+Vasu Radadia 13-04-2023
+
+Section 15: Web Development with Flask
+-First Flask endpoint ->Done
+-Returning information with Flask and Python ->Done
+-Error pages and Jinja2 inheritance ->Done
+-Setting up project with Flask ->Done
+
+
+Vasu Radadia 14-04-2023
+
+Section 15: Web Development with Flask
+-Some issues in error pages and Jinja2 inheritance while trying to run -Done
+-Rendering forms with Flask and Python -Done
+-Accessing POST form data with Flask -Done
+-Putting our form in a single endpoint -Done
+
+
+Vasu Radadia 19-04-2023
+
+Section 15: Web Development with Flask -Done
+-Rendering forms with Flask and Python issues
+-Accessing POST data in some minor issues
+-Using jinja2 for loops to create a nicer homepage
+-Adding navigation to our website
+
+
+Vasu Radadia 20-04-2023
+
+Section 16: Interacting with APIs with Python -Done
+-Signing up to OpenExchangeRates
+-Getting all exchange rates from the API
+-Creating a currency exchange library
+-Caching functions with functools
+-TTL caches with cachetools
+
+
+Vasu Radadia 21-04-2023
+
+Section 17: Decorators in Python
+-A simple decorator in Python -Done
+-Coding Exercise 21: Exercise: decorators -Done
+-Using a @syntax -Done
+-Functools wraps in Python -Done
+-Decorating functions with parameters -Done
+
+
+Vasu Radadia 24-04-2023
+
+Section 17: Decorators in Python -Done
+-Decorators with parameters
+-Functions that accept multiple arguments
+-Generic decorators for any function
+-Coding Exercise 22: Exercise: a generic access control decorator
+
+
+Vasu Radadia 25-04-2023
+
+Section 18: Advanced Object-Oriented Programming -Done
+-multiple inheritance with Python
+-Coding Exercise 23: Exercise: multiple inheritance
+-ABCs in Python
+-The usefulness of ABCs
+-Coding Exercise 24: Exercise: ABCs
+-The property setter in Python
