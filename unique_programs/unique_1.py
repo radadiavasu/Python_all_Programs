@@ -68,3 +68,28 @@ set_2 = []
 
 set_2 = [x for x in myset if x not in set_2 and not set_2.append(x)]
 print(set_2)
+
+# Factorial Number
+user = int(input("Enter the value: "))
+
+def factorial(n):
+    if n == 1:
+        return n
+    else:
+        return n*factorial(n-1)
+
+if user < 0 ^ user==0:
+    print("Enter the value more than 0 and not negative.")
+else:
+    print("The faactorail number of", user, "is", factorial(user))
+    
+# Remove strings from list.
+def remove_strings(lst):
+    result = []
+    
+    for element in lst:
+        if isinstance(element, int) and element >= 0:
+            result.append(element)
+    return result
+    
+print(remove_strings([1,2,"vasu",4,5]))
