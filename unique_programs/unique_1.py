@@ -93,3 +93,11 @@ def remove_strings(lst):
     return result
     
 print(remove_strings([1,2,"vasu",4,5]))
+
+# Unique_1
+tuple_ = {"vasu"}
+print(type(tuple_))
+
+# Unique_2
+fruit = 'apple'
+print(dir(fruit))
