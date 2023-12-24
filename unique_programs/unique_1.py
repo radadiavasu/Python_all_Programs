@@ -94,6 +94,23 @@ def remove_strings(lst):
     
 print(remove_strings([1,2,"vasu",4,5]))
 
+# Dictionary Aggregation Removing Duplicates and assaining new values that does not exist in entire list
+dict_one = {
+    "dict1":1,
+    "dict2":2
+}
+
+dict_two = {
+    "dict3":3,
+    "dict2":2,
+    "dict4":4
+}
+
+final_dict = {k: dict_one.get(k, 0) + dict_two.get(k, 0) \
+              for k in set(dict_one | dict_two)
+}
+print(final_dict)
+
 # Unique_1
 tuple_ = {"vasu"}
 print(type(tuple_))
